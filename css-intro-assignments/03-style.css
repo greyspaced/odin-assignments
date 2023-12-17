@@ -1,0 +1,15 @@
+.first-button {
+
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    border-color: grey;
+
+}
+
+.second-button {
+
+    background-color:yellow;
+    color: black;
+    border-color: grey;
+}
