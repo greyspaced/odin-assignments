@@ -1,0 +1,31 @@
+p {
+
+    background-color: #e06a78;
+    color: black;
+
+}
+
+
+
+div {
+
+
+}
+
+.one-five-font {
+
+    font-size: small;
+}
+
+#four-background {
+
+    background-color: limegreen;
+    font-size: medium;
+    font-weight: bold;
+}
+
+#two-color {
+
+    color: blue;
+    font-size: larger;
+}
